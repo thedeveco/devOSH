@@ -2,5 +2,5 @@
 
 ## Administrators
 
-### Michael Welling
-### Dale Weber (hybotix)
+### Michael Welling (Discord m_w)
+### Dale Weber (Discord hybotix)
