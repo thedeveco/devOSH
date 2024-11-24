@@ -1,10 +1,9 @@
-# The DevEco Open Hardware Project
+# The DevEco Open Hardware Initiative
 
 ## Administrators
 
 ### Michael Welling (Discord m_w)
-### Dale Weber (Discord hybotix)
-
+### Dale Weber (Discord hybotix
 
 ## Directories
 
