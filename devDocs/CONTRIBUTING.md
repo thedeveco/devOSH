@@ -6,17 +6,13 @@ Thank you for your interest in contributing to the Portal Network Metadata repos
 
 ## How You Can Contribute
 
-1. **Add a Discord Server**
+1. **Suggest Improvements**
 
-Help grow the Portal Network by adding a Discord server to the database. Follow the steps below to ensure your contribution meets our standards.
+Share ideas to improve the organization, structure, or functionality of the repo.
 
-2. **Suggest Improvements**
+2. **Update Documentation**
 
-Share ideas to improve the organization, structure, or functionality of the Portal Network.
-
-3. **Update Metadata**
-
-Ensure that server information (like descriptions or member counts) stays current by submitting updates.
+Ensure that repo documentation (like descriptions, documents, etc.) stay current.
 
 ---
 
@@ -65,15 +61,15 @@ git checkout -b add-new-server
 Commit your changes with a clear message:
 
 ```bash
-git add metadata/servers.json
-git commit -m "Added [Your Server Name] to servers.json"
+git add [changed document name]
+git commit -m "Added [changed document name], [explain what you did]"
 ```
 
 ### Step 5: Submit a Pull Request (PR)
 1. Push your changes to your forked repository:
 
 ```bash
-git push origin add-new-server
+git push origin [branch name]
 ```
 
 2. Go to the original repository and click "Compare & Pull Request."
