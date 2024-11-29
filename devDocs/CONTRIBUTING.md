@@ -26,7 +26,11 @@ Ensure that repo documentation (like descriptions, documents, etc.) stay current
 ```bash
 git clone https://github.com/your-username/devHW.git
 cd devHW
+git remote add [nick] https://github.com/ORIGINAL-username/devHW.git
+
 ```
+The [nick] is a name you can remember because you will use it in some fetch and
+  pull commands. For instance, hybotix uses "hybo" for the [nick].
 
 ### Step 2: Create a New Branch
 
