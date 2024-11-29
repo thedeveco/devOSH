@@ -24,8 +24,8 @@ Ensure that repo documentation (like descriptions, documents, etc.) stay current
 2. Clone your forked repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Portal-Network-Metadata.git
-cd Portal-Network-Metadata
+git clone https://github.com/your-username/devHW.git
+cd devHW
 ```
 
 ### Step 2: Create a New Branch
@@ -33,24 +33,13 @@ cd Portal-Network-Metadata
 Create a branch for your changes:
 
 ```bash
-git checkout -b add-new-server
+git branch [branch name]
+git checkout -b [branch name]
 ```
+
+This will checkout your branch set you up to edit on that branch of the repo.
 
 ### Step 3: Make your Changes
-
-- Add a new entry to the `servers.json` file located in the `/metadata/` directory.
-- Follow this JSON structure:
-
-```json
-{
-  "name": "Your Server Name",
-  "invite": "https://discord.gg/yourinvitecode",
-  "description": "A brief description of your community.",
-  "tags": ["technology", "AI", "IoT"],
-  "category": "Technology",
-  "member_count": 1200
-}
-```
 
 **Tips:**
 - Use descriptive and accurate information.
@@ -61,9 +50,16 @@ git checkout -b add-new-server
 Commit your changes with a clear message:
 
 ```bash
-git add [changed document name]
-git commit -m "Added [changed document name], [explain what you did]"
+git add [changed document or directory name]
+git commit -m "Added [changed document or directory name], [explain what you did]"
 ```
+
+Note: You can also do
+```bash
+git commit
+```
+
+and edit the commit message inside your default editor.
 
 ### Step 5: Submit a Pull Request (PR)
 1. Push your changes to your forked repository:
