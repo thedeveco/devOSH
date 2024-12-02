@@ -89,7 +89,7 @@ git push origin [branch name]
 
 ### General Rules
 
-- All contributions must align with the Portal Network’s vision of openness, collaboration, and innovation.
+- All contributions must align with the Open Hardware Initiative's  vision of openness, collaboration, and innovation.
 - Ensure your metadata is accurate, concise, and respectful.
 - Do not include offensive, discriminatory, or inappropriate content.
 
