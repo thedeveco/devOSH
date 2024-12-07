@@ -1,6 +1,6 @@
-# Contributing to Portal Network Metadata
+# Contributing to Open Hardware Initiative
 
-Thank you for your interest in contributing to the Portal Network Metadata repository! Contributions from the community are vital to making the Portal Network a rich, diverse, and valuable resource for developers and technologists worldwide. This document outlines the steps and guidelines for contributing.
+Thank you for your interest in contributing to the Open Hardware Initiative repository! Contributions from the community are vital to making the Open Hardware Initiative a rich, diverse, and valuable resource for developers and technologists worldwide. This document outlines the steps and guidelines for contributing.
 
 ---
 
