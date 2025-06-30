@@ -5425,7 +5425,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 93.98) (xy 119.38 93.98)
+			(xy 82.55 93.98) (xy 76.2 93.98)
 		)
 		(stroke
 			(width 0)
@@ -7634,12 +7634,12 @@
 		(uuid "22c8f8ff-5a03-48b5-9445-1207a868f26e")
 	)
 	(label "LED_IN"
-		(at 119.38 93.98 0)
+		(at 76.2 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "3056d42a-2c30-4891-8401-2abddb7de8cd")
 	)
