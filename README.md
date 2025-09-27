@@ -1,8 +1,8 @@
 # The DevEco Open Hardware Initiative
 
-## Administrators
+This repository serves as a central location for open hardware collaboration that is inspired the by devEco.
 
-### Michael Welling (Discord m_w)
+The hope is create a flourishing hardware ecosystem that the community can rally around, learn from and adapt to create new exciting projects.
 
 ## Directories
 
@@ -14,3 +14,7 @@
 ### Studies
 
 ### Tutorials
+
+## Administrators
+
+### Michael Welling (Discord m_w)
