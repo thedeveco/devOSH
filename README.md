@@ -3,15 +3,14 @@
 ## Administrators
 
 ### Michael Welling (Discord m_w)
-### Dale Weber (Discord HybridRobotix)
 
 ## Directories
 
 ### Projects
+- [B3VY LED badge](https://github.com/thedeveco/devOSH/tree/main/Projects/b3vy_led)
 
 #### Current Projects
 
 ### Studies
-- [Robot Smart Home Controller](https://github.com/thedeveco/devHW/tree/main/Studies/Robot_Smart_Home_Controller)
 
 ### Tutorials
