@@ -1,0 +1,3 @@
+[submodule "Projects/maker-chip-standard"]
+	path = Projects/maker-chip-standard
+	url = git@github.com:thedeveco/maker-chip-standard.git
