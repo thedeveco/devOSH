@@ -10,6 +10,7 @@ The hope is create a flourishing hardware ecosystem that the community can rally
 - [B3VY LED badge](https://github.com/thedeveco/devOSH/tree/main/Projects/b3vy_led)
 
 #### Current Projects
+- [Electronic Makerchip](https://github.com/thedeveco/maker-chip-standard)
 
 ### Studies
 
