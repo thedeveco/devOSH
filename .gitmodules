@@ -1,3 +1,6 @@
 [submodule "Projects/maker-chip-standard"]
 	path = Projects/maker-chip-standard
 	url = git@github.com:thedeveco/maker-chip-standard.git
+[submodule "Projects/FPV-Omnibot"]
+	path = Projects/FPV-Omnibot
+	url = git@github.com:HeavyFalcon678/FPV-Omnibot.git
