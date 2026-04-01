@@ -14,6 +14,7 @@ The hope is create a flourishing hardware ecosystem that the community can rally
 
 #### Current Projects
 - [Electronic Makerchip](https://github.com/thedeveco/maker-chip-standard)
+- [FPV Omnibot](https://github.com/HeavyFalcon678/FPV-Omnibot)
 
 ### Studies
 
