@@ -5,12 +5,7 @@ This repository serves as a central location for open hardware collaboration tha
 The hope is create a flourishing hardware ecosystem that the community can rally around, learn from and adapt to create new exciting projects.
 
 ## Live stream
-
-Every Tuesday at 6:30pm CDT / 11:30 PM UTC
-
-- [Twitch Stream](https://www.twitch.tv/m_welling)
-- [Youtube Stream](https://www.youtube.com/@MichaelWelling79/streams)
-- [B3VY Stream](https://b3vy.com/stream)
+- [Live stream informaton](LIVESTREAM.md)
 
 ## Directories
 
