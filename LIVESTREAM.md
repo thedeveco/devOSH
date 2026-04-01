@@ -18,7 +18,8 @@ Every Tuesday at 6:30pm CDT / 11:30 PM UTC
 - Surprise visit from Lawrence King.
 - Video of HeavyFalcon's robotic gripper design.
 
-![Stream recording](https://www.youtube.com/watch?v=SwoEPh81Acc)
+[![Stream recording](https://img.youtube.com/vi/SwoEPh81Acc/0.jpg)](https://www.youtube.com/watch?v=SwoEPh81Acc)
+
 
 ### March 10th 2026
 
@@ -26,4 +27,4 @@ Every Tuesday at 6:30pm CDT / 11:30 PM UTC
 - Robotic gripper updates.
 - B3VY badge design overview.
 
-![Stream recording](https://www.youtube.com/watch?v=x0UM5DA5lgM)
+[![Stream recording](https://img.youtube.com/vi/x0UM5DA5lgM/0.jpg)](https://www.youtube.com/watch?v=x0UM5DA5lgM)
