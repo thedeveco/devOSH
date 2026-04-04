@@ -9,6 +9,7 @@ Every Tuesday at 6:30pm CDT / 11:30 PM UTC
 ## Agenda for upcoming stream
 
 ### April 7th 2026
+- Cancelled due to schedule conflict.
 
 ## Previous streams
 
@@ -17,6 +18,10 @@ Every Tuesday at 6:30pm CDT / 11:30 PM UTC
 - Guest appearence from Eric Brombaugh to show off his dspod series of open hardware boards.
 - Surprise visit from Lawrence King.
 - Video of HeavyFalcon's robotic gripper design.
+
+[dsPOD Github repository](https://github.com/emeb/dspod/tree/main)
+[ZED boards linke](https://zed-boards.com/)
+[Ominbot gripper video](https://www.youtube.com/watch?v=OyF7Ex0_O2U)
 
 [![Stream recording](https://img.youtube.com/vi/SwoEPh81Acc/0.jpg)](https://www.youtube.com/watch?v=SwoEPh81Acc)
 
