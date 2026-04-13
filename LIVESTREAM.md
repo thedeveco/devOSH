@@ -9,9 +9,7 @@ Every Tuesday at 6:30pm CDT / 11:30 PM UTC
 ## Agenda for upcoming stream
 
 ### April 14th 2026
-
-### April 7th 2026
-- Cancelled due to schedule conflict.
+- fixxer will be joining to share about new [deveco.io](https://deveco.io/)
 
 ## Previous streams
 
