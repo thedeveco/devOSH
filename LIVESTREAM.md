@@ -8,8 +8,11 @@ Every Tuesday at 6:30pm CDT / 11:30 PM UTC
 
 ## Agenda for upcoming stream
 
-### April 14th 2026
+### April 21st 2026
 - fixxer will be joining to share about new [deveco.io](https://deveco.io/)
+
+### April 14th 2026
+- Random
 
 ## Previous streams
 
