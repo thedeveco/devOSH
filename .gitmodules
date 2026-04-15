@@ -4,3 +4,6 @@
 [submodule "Projects/FPV-Omnibot"]
 	path = Projects/FPV-Omnibot
 	url = git@github.com:HeavyFalcon678/FPV-Omnibot.git
+[submodule "Projects/B3vy_led"]
+	path = Projects/B3vy_led
+	url = https://github.com/mwelling/b3vy_led.git
