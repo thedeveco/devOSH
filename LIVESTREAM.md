@@ -11,10 +11,11 @@ Every Tuesday at 6:30pm CDT / 11:30 PM UTC
 ### April 21st 2026
 - fixxer will be joining to share about new [deveco.io](https://deveco.io/)
 
-### April 14th 2026
-- Random
-
 ## Previous streams
+
+### April 14th 2026
+- Added a bunch of project ideas to the repository. See issues.
+- Moved B3vy LED project to its own repository.
 
 ### March 31st 2026
 
