@@ -3,15 +3,21 @@
 Every Tuesday at 6:30pm CDT / 11:30 PM UTC
 
 - [Twitch Stream](https://www.twitch.tv/m_welling)
-- [Youtube Stream](https://www.youtube.com/@MichaelWelling79/streams)
+- [Youtube Stream](https://www.youtube.com/@thedeveco/streams)
 - [B3VY Stream](https://b3vy.com/stream)
 
 ## Agenda for upcoming stream
 
-### April 21st 2026
-- fixxer will be joining to share about new [deveco.io](https://deveco.io/)
+### May 5th 2026
+- Makerchip project updates
 
 ## Previous streams
+
+### April 28st 2026
+- fixxer will be joining to share about new [deveco.io](https://deveco.io/)
+- Makerchip project updates.
+
+[![Stream recording](https://img.youtube.com/vi/I5lwMe-KtHU/0.jpg)](https://www.youtube.com/watch?v=I5lwMe-KtHU)
 
 ### April 14th 2026
 - Added a bunch of project ideas to the repository. See issues.
