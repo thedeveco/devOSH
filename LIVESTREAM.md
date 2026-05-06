@@ -8,10 +8,15 @@ Every Tuesday at 6:30pm CDT / 11:30 PM UTC
 
 ## Agenda for upcoming stream
 
+### May 12th 2026
+- TBD
+
+## Previous streams
+
 ### May 5th 2026
 - Makerchip project updates
 
-## Previous streams
+[![Stream recording](https://img.youtube.com/vi/DlZDE45hXkE/0.jpg)](https://www.youtube.com/watch?v=DlZDE45hXkE)
 
 ### April 28st 2026
 - fixxer will be joining to share about new [deveco.io](https://deveco.io/)
