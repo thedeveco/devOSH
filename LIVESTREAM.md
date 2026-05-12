@@ -2,14 +2,15 @@
 
 Every Tuesday at 6:30pm CDT / 11:30 PM UTC
 
-- [Twitch Stream](https://www.twitch.tv/m_welling)
+- [Twitch Stream](https://www.twitch.tv/thedeveco)
 - [Youtube Stream](https://www.youtube.com/@thedeveco/streams)
 - [B3VY Stream](https://b3vy.com/stream)
 
 ## Agenda for upcoming stream
 
 ### May 12th 2026
-- TBD
+- Makerchip project updates
+- Discuss stream time update
 
 ## Previous streams
 
