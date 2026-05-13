@@ -1,6 +1,6 @@
 # Live stream information
 
-Every Tuesday at 6:30pm CDT / 11:30 PM UTC
+Every Tuesday at 7:30pm CDT / 12:30 AM UTC
 
 - [Twitch Stream](https://www.twitch.tv/thedeveco)
 - [Youtube Stream](https://www.youtube.com/@thedeveco/streams)
