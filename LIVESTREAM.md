@@ -8,11 +8,20 @@ Every Tuesday at 6:30pm CDT / 11:30 PM UTC
 
 ## Agenda for upcoming stream
 
-### May 12th 2026
-- Makerchip project updates
-- Discuss stream time update
+### May 19th 2026
+- TBD
 
 ## Previous streams
+
+### May 12th 2026
+- Talked about new potential libre silicon project
+- Mention of wafer.space
+- Makerchip project updates
+- Stream moved to 1 hour later
+- Makerspace and manufacurting discussions
+
+[![Stream recording](https://img.youtube.com/vi/mrPv7Ha8mxk/0.jpg)](https://www.youtube.com/watch?v=mrPv7Ha8mxk)
+
 
 ### May 5th 2026
 - Makerchip project updates
