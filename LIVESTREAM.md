@@ -9,7 +9,8 @@ Every Tuesday at 7:30pm CDT / 12:30 AM UTC
 ## Agenda for upcoming stream
 
 ### May 19th 2026
-- TBD
+- [Open hardware summit](https://2026.oshwa.org/)
+- devECO happenings
 
 ## Previous streams
 
