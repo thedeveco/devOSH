@@ -1,6 +1,6 @@
 # Live stream information
 
-Every Tuesday at 7:30pm CDT / 12:30 AM UTC
+Every Tuesday at 7:30pm CDT / 5:30pm PDT / 12:30 AM UTC
 
 - [Twitch Stream](https://www.twitch.tv/thedeveco)
 - [Youtube Stream](https://www.youtube.com/@thedeveco/streams)
@@ -8,11 +8,19 @@ Every Tuesday at 7:30pm CDT / 12:30 AM UTC
 
 ## Agenda for upcoming stream
 
-### May 19th 2026
-- [Open hardware summit](https://2026.oshwa.org/)
-- devECO happenings
+### May 26th 2026
+- TBD
 
 ## Previous streams
+
+### May 19th 2026
+- Quickie Makerchip updates
+- [Open hardware summit](https://2026.oshwa.org/)
+- Overview of OSHWA and certification
+- devECO happenings
+- Voting on next design. (Didn't really happen)
+
+[![Stream recording](https://img.youtube.com/vi/YiLaYMw4QFE/0.jpg)](https://www.youtube.com/watch?v=YiLaYMw4QFE)
 
 ### May 12th 2026
 - Talked about new potential libre silicon project
