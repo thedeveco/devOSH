@@ -8,8 +8,9 @@ Every Tuesday at 7:30pm CDT / 5:30pm PDT / 12:30 AM UTC
 
 ## Agenda for upcoming stream
 
-### June 2nd 2026
-- TBD
+### June 9th 2026
+- Makerchip+ updates
+- Next project announcement
   
 ## Previous streams
 
