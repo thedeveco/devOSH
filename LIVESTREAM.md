@@ -7,11 +7,13 @@ Every Tuesday at 7:30pm CDT / 5:30pm PDT / 12:30 AM UTC
 - [B3VY Stream](https://b3vy.com/stream)
 
 ## Agenda for upcoming stream
-
-### June 16th
-- TBD
   
 ## Previous streams
+
+### June 16th
+- Started FPGA project
+
+[![Stream recording](https://img.youtube.com/vi/MRqCfk-QR6s/0.jpg)](https://www.youtube.com/watch?v=MRqCfk-QR6s)
 
 ### June 9th 2026
 - Makerchip+ updates
