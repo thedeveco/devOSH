@@ -7,6 +7,12 @@ Every Tuesday at 7:30pm CDT / 5:30pm PDT / 12:30 AM UTC
 - [B3VY Stream](https://b3vy.com/stream)
 
 ## Agenda for upcoming stream
+
+### June 23rd
+- Deveco.io updates
+- Makerchip status
+- FPGA speed run
+- Switching schedule
   
 ## Previous streams
 
