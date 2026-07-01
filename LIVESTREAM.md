@@ -1,6 +1,6 @@
 # Live stream information
 
-Every Tuesday at 7:30pm CDT / 5:30pm PDT / 12:30 AM UTC
+Every other Thursday at 7:30pm CDT / 5:30pm PDT / 12:30 AM UTC
 
 - [Twitch Stream](https://www.twitch.tv/thedeveco)
 - [Youtube Stream](https://www.youtube.com/@thedeveco/streams)
@@ -8,13 +8,22 @@ Every Tuesday at 7:30pm CDT / 5:30pm PDT / 12:30 AM UTC
 
 ## Agenda for upcoming stream
 
+### July 9th
+- TURFPTAx showcasing V4 boards for finger tracking bracelets: https://youtu.be/VqcE25hyYIk
+- Makerchip updates
+- Open sauce deveco.io launch
+- ECP5 FPGA board updates
+  
+## Previous streams
+
 ### June 23rd
 - Deveco.io updates
 - Makerchip status
 - FPGA speed run
 - Switching schedule
-  
-## Previous streams
+
+[![Stream recording](https://img.youtube.com/vi/m_VgKMgp4Hc/0.jpg)](https://www.youtube.com/watch?v=m_VgKMgp4Hc)
+[![Stream recording](https://img.youtube.com/vi/rHou7_vJDnk/0.jpg)](https://www.youtube.com/watch?v=rHou7_vJDnk)
 
 ### June 16th
 - Started FPGA project
