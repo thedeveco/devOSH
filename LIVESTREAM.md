@@ -8,13 +8,18 @@ Every other Thursday at 7:30pm CDT / 5:30pm PDT / 12:30 AM UTC
 
 ## Agenda for upcoming stream
 
+### July 23rd
+- Opensauce postop
+- Project updates
+  
+## Previous streams
 ### July 9th
 - TURFPTAx showcasing V4 boards for finger tracking bracelets: https://youtu.be/VqcE25hyYIk
 - Makerchip updates
 - Open sauce deveco.io launch
 - ECP5 FPGA board updates
-  
-## Previous streams
+
+[![Stream recording](https://img.youtube.com/vi/Qo438KnKDv0/0.jpg)](https://www.youtube.com/watch?v=Qo438KnKDv0)
 
 ### June 23rd
 - Deveco.io updates
