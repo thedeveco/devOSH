@@ -8,11 +8,16 @@ Every other Thursday at 7:30pm CDT / 5:30pm PDT / 12:30 AM UTC
 
 ## Agenda for upcoming stream
 
+### August 6th
+
+## Previous streams
+
 ### July 23rd
 - Opensauce postop
 - Project updates
-  
-## Previous streams
+
+[![Stream recording](https://img.youtube.com/vi/4Fd_ghulKPc/0.jpg)](https://www.youtube.com/watch?v=4Fd_ghulKPc)
+
 ### July 9th
 - TURFPTAx showcasing V4 boards for finger tracking bracelets: https://youtu.be/VqcE25hyYIk
 - Makerchip updates
