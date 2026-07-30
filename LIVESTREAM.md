@@ -6,7 +6,10 @@ Every other Thursday at 7:30pm CDT / 5:30pm PDT / 12:30 AM UTC
 - [Youtube Stream](https://www.youtube.com/@thedeveco/streams)
 - [B3VY Stream](https://b3vy.com/stream)
 
-## Agenda for upcoming stream
+## Agenda for upcoming streams
+
+### August 20th
+- Libre silicon with wafer.space featuring Tim "mithro" Ansell.
 
 ### August 6th
 
