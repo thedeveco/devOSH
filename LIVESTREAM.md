@@ -11,10 +11,13 @@ Every other Thursday at 7:30pm CDT / 5:30pm PDT / 12:30 AM UTC
 ### August 20th
 - Libre silicon with wafer.space featuring Tim "mithro" Ansell.
 
-### August 6th
-
 ## Previous streams
 
+### August 6th
+- Pretty random
+- Robototo
+- Protoboard
+  
 ### July 23rd
 - Opensauce postop
 - Project updates
