@@ -18,7 +18,7 @@ Every other Thursday at 7:30pm CDT / 5:30pm PDT / 12:30 AM UTC
 - Robototo
 - Protoboard
 
-[![Stream recording](https://img.youtube.com/vi/kruK27wwMsw)/0.jpg)](https://www.youtube.com/watch?v=kruK27wwMsw)
+[![Stream recording](https://img.youtube.com/vi/kruK27wwMsw/0.jpg)](https://www.youtube.com/watch?v=kruK27wwMsw)
   
 ### July 23rd
 - Opensauce postop
