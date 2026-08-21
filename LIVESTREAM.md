@@ -6,10 +6,14 @@ Every other Thursday at 7:30pm CDT / 5:30pm PDT / 12:30 AM UTC
 
 ## Agenda for upcoming streams
 
-### August 20th
-- Libre silicon with wafer.space featuring Tim "mithro" Ansell.
+### September 4th
+- TBD
 
 ## Previous streams
+
+### August 20th
+- Libre silicon with wafer.space featuring Tim "mithro" Ansell.
+[![Stream recording](https://img.youtube.com/vi/pj2mUVyOSFg.jpg)](https://www.youtube.com/watch?v=pj2mUVyOSFg)
 
 ### August 6th
 - Pretty random (sorry for the echo)
