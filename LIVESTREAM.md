@@ -7,7 +7,10 @@ Every other Thursday at 7:30pm CDT / 5:30pm PDT / 12:30 AM UTC
 ## Agenda for upcoming streams
 
 ### September 4th
-- TBD
+- Jumperless with Kevin Santo Cappuccio
+- The Resilient America Preparedness Challenge
+
+[![Stream recording](https://img.youtube.com/vi/EPsDqFNOt28/0.jpg)](https://www.youtube.com/watch?v=EPsDqFNOt28)
 
 ## Previous streams
 
