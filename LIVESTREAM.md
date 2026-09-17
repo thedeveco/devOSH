@@ -6,7 +6,7 @@ Every other Thursday at 7:30pm CDT / 5:30pm PDT / 12:30 AM UTC
 
 ## Agenda for upcoming streams
 
-### September 17th
+### October 1st
 - TBD
 
 ## Previous streams
