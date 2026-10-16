@@ -6,8 +6,7 @@ Every other Thursday at 7:30pm CDT / 5:30pm PDT / 12:30 AM UTC
 
 ## Agenda for upcoming streams
 
-### October 15th
-- Open hardware month special
+### No upcoming streams
 
 ## Previous streams
 
